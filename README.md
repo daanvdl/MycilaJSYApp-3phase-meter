@@ -25,6 +25,7 @@ This hardware is designed to run **MycilaJSYApp**. Firmware, configuration instr
 | 1 | Hi-Link HLK-5M05 | Encapsulated 5 V AC/DC power module |
 | 1 | ESP32-ETH01 | ESP32 module with Ethernet interface |
 | 1 | JSY-MK-333 | Three-phase energy meter module |
+| 3 | 2000:1 split-core current transformer (CT) | |
 | 1 | 4-position HB-9500 terminal block | L1, L2, L3 and N |
 | 3 | 22 mm panel-mount fuse holder | For 5 × 20 mm fuses |
 | 3 | 1 A slow-blow fuse | 5 × 20 mm |
