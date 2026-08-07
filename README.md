@@ -34,7 +34,8 @@ This hardware is designed to run **MycilaJSYApp**. Firmware, configuration instr
 | 1 | 300 Ω resistor | LED current-limiting resistor |
 | 1 | 470 µF electrolytic capacitor | 5 mm lead spacing |
 | 1 | 100 nF ceramic capacitor | 2.54 mm lead spacing |
-| 8 | M3 × D4.6 × L4.0 heat-set insert | For enclosure assembly |
+| 8 | M3 × D4.6 × L4.0 heat insert | For enclosure assembly |
+| 8 | M3 6mm Screw | For enclosure assembly |
 | 2 | M20 × 1.5 cable gland with nut | For cable entry and strain relief |
 | 1 | 15 mm rocker switch | Main power switch |
 | As required | 2.54 mm pin-header strip | Module connections |
