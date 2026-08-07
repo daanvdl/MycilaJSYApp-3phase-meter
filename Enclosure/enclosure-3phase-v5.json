@@ -1,0 +1,115 @@
+{
+  "length": 180,
+  "width": 85,
+  "height": 55,
+  "floor": 2,
+  "roof": 2,
+  "wall": 2,
+  "waterProof": false,
+  "sealThickness": 2,
+  "insertThickness": 2,
+  "insertHeight": 4,
+  "insertClearance": 0.04,
+  "showLid": true,
+  "showBase": true,
+  "showGrid": true,
+  "gridSpacing": 10,
+  "cornerRadius": 3,
+  "holes": [
+    {
+      "shape": "square",
+      "surface": "right",
+      "diameter": 12.5,
+      "width": 18,
+      "length": 10,
+      "y": 55,
+      "x": -7.5
+    },
+    {
+      "shape": "circle",
+      "surface": "left",
+      "diameter": 20,
+      "width": 10,
+      "length": 10,
+      "y": -55,
+      "x": 5
+    },
+    {
+      "shape": "circle",
+      "surface": "left",
+      "diameter": 20,
+      "width": 10,
+      "length": 10,
+      "y": 55,
+      "x": 5
+    },
+    {
+      "shape": "circle",
+      "surface": "right",
+      "diameter": 5,
+      "width": 10,
+      "length": 10,
+      "y": 30,
+      "x": -13.5
+    },
+    {
+      "shape": "circle",
+      "surface": "right",
+      "diameter": 15,
+      "width": 10,
+      "length": 10,
+      "y": 30,
+      "x": 5
+    }
+  ],
+  "pcbMounts": [
+    {
+      "surface": "bottom",
+      "x": 33,
+      "y": 73,
+      "height": 6,
+      "outerDiameter": 10,
+      "screwDiameter": 4.3
+    },
+    {
+      "surface": "bottom",
+      "x": -33,
+      "y": 73,
+      "height": 6,
+      "outerDiameter": 10,
+      "screwDiameter": 4.3
+    },
+    {
+      "surface": "bottom",
+      "x": 33,
+      "y": -73,
+      "height": 6,
+      "outerDiameter": 10,
+      "screwDiameter": 4.3
+    },
+    {
+      "surface": "bottom",
+      "x": -33,
+      "y": -73,
+      "height": 6,
+      "outerDiameter": 10,
+      "screwDiameter": 4.3
+    }
+  ],
+  "internalWalls": [
+    {
+      "x": 0,
+      "y": 0,
+      "height": 6,
+      "length": 25,
+      "thickness": 5,
+      "rotation": 90
+    }
+  ],
+  "wallMounts": false,
+  "wallMountCount": 4,
+  "wallMountScrewDiameter": 3.98,
+  "lidScrews": true,
+  "lidScrewDiameter": 3.2,
+  "baseLidScrewDiameter": 4.3
+}
