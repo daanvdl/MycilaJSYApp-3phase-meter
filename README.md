@@ -2,7 +2,7 @@
 
 A complete three-phase grid energy meter, including a custom PCB and 3D-printable enclosure. The device is designed for accurate, reliable, high-frequency 3 phase energy measurements and can be accessed over both Ethernet and Wi-Fi.
 
-![MycilaJSYApp 3-Phase Meter PCB](images/mycilajsyapp-meter-board.png)
+![MycilaJSYApp 3-Phase Meter PCB](Images/mycilajsyapp-meter-board.png)
 
 ## Firmware
 
@@ -42,9 +42,9 @@ This hardware is designed to run **MycilaJSYApp**. Firmware, configuration instr
 
 The included enclosure is designed around the PCB and provides openings for the power switch, indicator LED, wiring, and external connections. Install eight M3 heat-set inserts in the printed parts for assembly.
 
-![3D-printable enclosure](images/mycilajsyapp-case.png)
+![3D-printable enclosure](Images/mycilajsyapp-case.png)
 
-The enclosure file can be opened and, if required, customized with [Easy Enclosure](https://bruceborrett.github.io/easy-enclosure/).
+The enclosure file in the 'Enclosure' directory can be opened and, if required, customized with [Easy Enclosure](https://bruceborrett.github.io/easy-enclosure/).
 
 Print settings depend on the printer and material. Use a heat-resistant, flame-retardant material suitable for the intended installation environment. Verify all clearances and fit before connecting mains voltage.
 
